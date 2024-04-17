@@ -24,13 +24,11 @@ Başlat ve Çıkış seçenekleri bulunmaktadır. Başlat seçeneğine tıkland�
 
 ![image](https://github.com/BerkeKara00/ArduinoTuglaKirmaOyunu/assets/105048455/bf286c37-8244-4530-b882-788ec5840449)
 
-Oyuncunun toplamda 3 can hakkı vardır. Bu canlar LED'ler ile gösterilmektedir. Oyuncunun bütün canları biterse oyun sonlanır ve tekrardan menü kısmına dönülür. Eğer oyuncu bölümdeki bütün tuğlaları kırarsa bir sonraki bölüme geçer. Her bölümde topun hızı artar , oyun daha da zorlaşır. Oyuncu tuğlaları kırdıkça Display ekranı üzerinde puanı artmaktadır. Oyuncu eğer oyunu başarılı bir şekilde tamamlarsa "TEBRİKLER !" yazısı ile oyunu bitirir ve tekrardan menü kısmına dönülür.
+Oyuncunun toplamda 3 can hakkı vardır. Bu canlar LED'ler ile gösterilmektedir. Oyuncunun bütün canları biterse oyun sonlanır ve tekrardan menü kısmına dönülür. Eğer oyuncu bölümdeki bütün tuğlaları kırarsa bir sonraki bölüme geçer. Her bölümde topun hızı artar , oyun daha da zorlaşır. Oyuncu tuğlaları kırdıkça Display ekranı üzerinde puanı artmaktadır. Ayrıca oyuncu tuğlaları kırdığı zaman %10 ihtimalle tuğladan bonus can düşer palet ile bu bonusu yakalayabilirse can kazanma hakkına sahiptir.  Oyuncu oyunu başarılı bir şekilde tamamlarsa "TEBRİKLER !" yazısı ile oyunu bitirir ve tekrardan menü kısmına dönülür.
 
 
-### SEVİYE ATLAMA
-![image](https://github.com/BerkeKara00/ArduinoTuglaKirmaOyunu/assets/105048455/c72d62c3-4925-49b7-b7ce-758732eb270c)
 
 
-### RENK SENSORU
+## RENK SENSORU
 ![image](https://github.com/BerkeKara00/ArduinoTuglaKirmaOyunu/assets/105048455/579a1b8c-4b57-4e6a-98f9-2b899dc90da6)
 Kullanıcı tercihine göre siyah ve beyaz ekran üzerinde oyunu oynayabilir
