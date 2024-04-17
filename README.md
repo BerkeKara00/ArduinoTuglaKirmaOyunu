@@ -31,4 +31,5 @@ Oyuncunun toplamda 3 can hakkı vardır. Bu canlar LED'ler ile gösterilmektedir
 
 ## RENK SENSORU
 ![image](https://github.com/BerkeKara00/ArduinoTuglaKirmaOyunu/assets/105048455/579a1b8c-4b57-4e6a-98f9-2b899dc90da6)
+
 Kullanıcı tercihine göre siyah ve beyaz ekran üzerinde oyunu oynayabilir
