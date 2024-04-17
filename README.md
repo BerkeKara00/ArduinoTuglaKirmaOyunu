@@ -18,7 +18,7 @@ kontrol edilecek.
 
 
 
-#OYUN EKRANI GÖSTERİMİ
+# OYUN EKRANI GÖSTERİMİ
 
 ![image](https://github.com/BerkeKara00/ArduinoTuglaKirmaOyunu/assets/105048455/bf286c37-8244-4530-b882-788ec5840449)
 
